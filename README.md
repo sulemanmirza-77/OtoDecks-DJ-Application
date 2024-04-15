@@ -48,11 +48,6 @@ List any libraries or frameworks that need to be installed beforehand. For the O
 - Downloading the Application
 - Provide instructions on how to obtain the application, whether it’s through cloning a Git repository, downloading a zip file, or another method. For a GitHub project, it might look like this:
 
-//bash command//
-
-**git clone https://github.com/username/otodecks-dj-application.git
-cd otodecks-dj-application**
-
 # Building the Application
 Detailed steps on how to compile the application. For a JUCE-based project:
 
@@ -60,25 +55,6 @@ Detailed steps on how to compile the application. For a JUCE-based project:
 2. Open the Project: Navigate to File > Open and select the .jucer project file in your downloaded repository.
 3. Set Configuration: Configure the build settings as necessary (debug/release, 32-bit/64-bit).
 4. Save and Open IDE: Save the project and open it in your IDE using the File > Open in IDE option.
-
-**For Visual Studio (Windows):**
-
-//bash command//
-
-# Build the project
-Build > Build Solution
-
-**For Xcode (macOS):**
-
-//bash command//
-
-# Build the project
-Product > Build
-
-**For Makefile (Linux):**
-
-//bash command//
-make
 
 # Running the Application
 Instructions on how to run the executable after building, which might vary based on the system. Typically, this involves navigating to the directory containing the built application and running an executable file directly or through a command in the terminal.
