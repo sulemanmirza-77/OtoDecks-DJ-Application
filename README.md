@@ -4,12 +4,12 @@
 OtoDecks is an advanced DJ application designed to allow users to mix music seamlessly using tracks from different sources. Built using C++ and leveraging the JUCE framework, this application offers robust audio processing and an intuitive graphical user interface. This project served as an exploration into the principles of object-oriented programming and the potential of open-source frameworks, enhancing my understanding and skills in software development in an audio context.
 
 # Features
-**Audio Playback Controls:** Play, pause, and repeat functionalities with dynamic waveform display.
-**Dual-Deck Interface:** Load and control two separate tracks simultaneously, each with individual controls.
-**Advanced Audio Manipulation:** Includes controls for volume, balance, bass, treble, frequency, and playback speed.
-**Drag and Drop:** Simplified interaction through drag and drop capabilities for loading tracks.
-**Library Management:** Import your music collection, search through it, and manage playlists with persistence of session data.
-**Track Metadata Display:** Shows detailed information like track title, length, and file management options.
+**- Audio Playback Controls:** Play, pause, and repeat functionalities with dynamic waveform display.
+**- Dual-Deck Interface:** Load and control two separate tracks simultaneously, each with individual controls.
+**- Advanced Audio Manipulation:** Includes controls for volume, balance, bass, treble, frequency, and playback speed.
+**- Drag and Drop:** Simplified interaction through drag and drop capabilities for loading tracks.
+**- Library Management:** Import your music collection, search through it, and manage playlists with persistence of session data.
+**- Track Metadata Display:** Shows detailed information like track title, length, and file management options.
 
 # Technical Details
 **JUCE Framework:** Utilized for GUI and audio backend, supporting complex audio software requirements.
