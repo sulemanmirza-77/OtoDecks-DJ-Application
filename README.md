@@ -64,3 +64,7 @@ Instructions on how to run the executable after building, which might vary based
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+# Layout:
+![image](https://github.com/sulemanmirza-77/OtoDecks-DJ-Application/assets/64156254/64f0891f-a66f-4473-b169-86f631ff5028)
+
